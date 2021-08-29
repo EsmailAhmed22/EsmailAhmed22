@@ -14,14 +14,13 @@ I love the automotive world and one day I'll join it and contribute with my know
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on :<br>
-Summer Intern at Siemens EDA <img src="https://1000logos.net/wp-content/uploads/2017/06/Siemens-Logo.png" width="40" height="20" /><br>
-      
--I’m currently learning RTOS
+  * Summer Intern at Siemens EDA. <img src="https://1000logos.net/wp-content/uploads/2017/06/Siemens-Logo.png" width="40" height="20" /><br>
+  * Learning RTOS.
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
- Embedded Systems projects
-- I like reading about Microprossesors architectures like ARM Cortex-M
+ Embedded Systems projects.
+- I like reading about Microprossesors architectures like ARM Cortex-M.
 - 💬 Ask me about Embedded C , OOP and ARM microprossesors.
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1d_Sx9cXWPrRbqniWweofZZMl23fWiuq9/view?usp=sharing)
 <br>
