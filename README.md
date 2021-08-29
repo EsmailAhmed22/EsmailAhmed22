@@ -1,9 +1,11 @@
 # 👋 Hi!,I’m Esmail
 ----
 ## 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/EsmailAhmed22) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/esmail-ahmed-6b5986193/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](esmailahmed27211@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/EsmailAhmed22)](https://github.com/EsmailAhmed22) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esmail-ahmed-6b5986193/)](https://www.linkedin.com/in/esmail-ahmed-6b5986193/)
+<a href="mailto:esmailahmed27211@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esmailahmed27211@gmail.com" alt="Esmail Ahmed | Gmail" />
+</a>
 ----
 ## A little about me 👀
 I'm an **Undergrad Student🎓 [@Cairo University](https://cu.edu.eg/Home)** pursuing B.A. in Engineering. I'm passionate about learning and working with new tech. 
