@@ -27,4 +27,4 @@ I love the automotive world and one day I'll join it and contribute with my know
 <br>
 
 ## 💻 My Github Stats
-[![Esmail's Github stats](https://github-readme-stats.vercel.app/api?username=EsmailAhmed22&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/EsmailAhmed22?tab=repositories)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=EsmailAhmed22&count_private=true&theme=tokyonight&showicons=true)](https://github.com/EsmailAhmed22tab=repositories)
