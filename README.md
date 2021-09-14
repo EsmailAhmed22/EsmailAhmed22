@@ -15,6 +15,7 @@ I love the automotive world and one day I'll join it and contribute with my know
 
 - 🔭 I’m currently working on :<br>
   * Summer Intern at Siemens EDA. <img src="https://1000logos.net/wp-content/uploads/2017/06/Siemens-Logo.png" width="40" height="20" /><br>
+  * Electrical team member at CU Shell Eco-Racing team.<img src="https://user-images.githubusercontent.com/89493135/133278580-7352110b-351d-448b-98e8-91967748c284.jpg" width="30" height="20" /><br>
   * Learning RTOS.
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
